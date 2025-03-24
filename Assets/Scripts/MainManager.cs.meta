@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d110623a642692246a42fbc2d8d89884
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BrickPrefab: {instanceID: 0}
+  - Ball: {fileID: 897975713663390406, guid: 63f25b9733d2bcd4fa2ff6de1264c739, type: 3}
+  - ScoreText: {instanceID: 0}
+  - BestScoreText: {instanceID: 0}
+  - GameOverText: {instanceID: 0}
+  - MenuCanvas: {instanceID: 0}
+  - NameInputField: {instanceID: 0}
+  - StartButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
