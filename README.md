@@ -17,9 +17,8 @@ Vanishing Bricks includes responsive paddle movement, simple but satisfying ball
 ## Web Builds 🌐
 Play Vanishing Bricks directly in your browser:
 
-[**Itch Games**](https://play.unity.com/en/games/0a96c1bb-b60d-4bde-84ad-bdd0b7d3676b/vanishing-bricks)
-
-[**Unity Play**](https://captain-garneto.itch.io/vanishing-bricks)
+- [**Itch Games**](https://play.unity.com/en/games/0a96c1bb-b60d-4bde-84ad-bdd0b7d3676b/vanishing-bricks)
+- [**Unity Play**](https://captain-garneto.itch.io/vanishing-bricks)
 
 ## Notes 📘
 This project was created to practice 2D paddle movement, ball physics, collision detection, score tracking, and looping gameplay systems in Unity. Vanishing Bricks is part of my ongoing development as a Unity programmer and game designer.
