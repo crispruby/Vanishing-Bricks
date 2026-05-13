@@ -32,3 +32,8 @@ Daniel Anthony Rozek
 
 ## License 📄
 This project is open‑source for educational and portfolio use.
+
+## Screenshot Gallery 📸
+
+<img src="images/Bricks1.png" width="100%">
+<img src="images/Bricks2.png" width="100%">
